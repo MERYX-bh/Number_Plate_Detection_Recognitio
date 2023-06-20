@@ -11,3 +11,6 @@ plate detection : YOLOV8
 Characters recognition : EasyOCR
 
 - Finally I deployed the model on a web app using Flask.
+
+
+We start by detecting the license plate of the car like in the video below:
