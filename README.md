@@ -23,8 +23,6 @@ Then we continue by recognizing the characters on the plate using easy ocr see t
 
 Finally I deploed the final model on a web app using Flask:
 
-![screen1](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/Capture%20d%E2%80%99%C3%A9cran%202023-06-20%20213044.png)
-
 Here's a demo of the app [Demo video](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/Screen_recording.mp4)
 
 
