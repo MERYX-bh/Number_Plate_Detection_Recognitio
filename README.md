@@ -14,3 +14,5 @@ Characters recognition : EasyOCR
 
 
 We start by detecting the license plate of the car like in the video below:
+[![ALT_TEXT](IMAGE_PREVIEW)]([URL_OF_YOUR_VIDEO_FILE](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/t%C3%A9l%C3%A9chargement.mp4)https://github.com/MERYX-bh/Car-plate-recognition/blob/main/t%C3%A9l%C3%A9chargement.mp4)
+
