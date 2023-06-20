@@ -21,4 +21,8 @@ Then we continue by recognizing the characters on the plate using easy ocr see t
 
 [![Video Preview](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/detection_on_image.jpg)](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/ocr.mp4)
 
+Finally I deploed the final model on a web app using Flask:
+
+Here's a demo of the app [![Demo video]](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/Screen_recording.mp4)
+
 
