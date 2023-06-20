@@ -13,8 +13,12 @@ Characters recognition : EasyOCR
 - Finally I deployed the model on a web app using Flask.
 
 
-We start by detecting the license plate of the car like in the video below:
+We start by detecting the license plate using yolov8 (you can find the detailed code in the notebook ) of the car like in the video below:
 
 [![Video Preview](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/preview_plate.png)](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/t%C3%A9l%C3%A9chargement.mp4)
+
+Then we continue by recognizing the characters on the plate using easy ocr see the video below:
+
+[![Video Preview](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/detection_on_image.jpg)](https://github.com/MERYX-bh/Car-plate-recognition/blob/main/ocr.mp4)
 
 
