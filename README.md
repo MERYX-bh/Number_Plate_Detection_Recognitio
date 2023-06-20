@@ -3,9 +3,10 @@
 **Project description**
 This mainly a license plate recognition based on deep learning.
 
-First we start by detecting the license plate then when detected, we make the characters recognitions.
-\n
-plate detection : YOLOV8 \n
-Characters recognition : EasyOCR\n
+- First we start by detecting the license plate then when detected, we make the characters recognitions.
 
-Finally I deployed the model on a web app using Flask.
+plate detection : YOLOV8 
+
+Characters recognition : EasyOCR
+
+- Finally I deployed the model on a web app using Flask.
